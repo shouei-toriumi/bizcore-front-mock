@@ -1,0 +1,3964 @@
+{
+  "projects": [
+    {
+      "id": "#CM9800",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜80万",
+      "tags": [
+        "PL",
+        "一部リモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        },
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        }
+      ],
+      "company": "株式会社xyz00000",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Azure, Scrum, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜80万円",
+      "location": "東京都港区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00000.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9801",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜95万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Angular"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Heroku"
+        }
+      ],
+      "company": "株式会社xyz00001",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Angular, Heroku, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00001.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9802",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "100〜105万",
+      "tags": [
+        "PL",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Express"
+        }
+      ],
+      "company": "株式会社xyz00002",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "GCP, Express, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "100〜105万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00002.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9803",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜105万",
+      "tags": [
+        "PM",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Firebase"
+        },
+        {
+          "category": "その他",
+          "skill": "Agile"
+        }
+      ],
+      "company": "株式会社xyz00003",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Firebase, Agile, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜105万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00003.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9804",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "95〜105万",
+      "tags": [
+        "PM",
+        "フルリモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Kotlin"
+        }
+      ],
+      "company": "株式会社xyz00004",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Kotlin, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "95〜105万円",
+      "location": "東京都港区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00004.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9805",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "70〜75万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "JavaScript"
+        },
+        {
+          "category": "その他",
+          "skill": "Kubernetes"
+        }
+      ],
+      "company": "株式会社xyz00005",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "JavaScript, Kubernetes, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "70〜75万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00005.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9806",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "60〜100万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Spring"
+        },
+        {
+          "category": "OS",
+          "skill": "Mac"
+        }
+      ],
+      "company": "株式会社xyz00006",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Spring, Mac, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "60〜100万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00006.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9807",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜70万",
+      "tags": [
+        "フルスタックエンジニア",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Spring"
+        },
+        {
+          "category": "言語",
+          "skill": "Kotlin"
+        }
+      ],
+      "company": "株式会社xyz00007",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Scrum, Spring, Kotlin, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜70万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00007.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9808",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "70〜90万",
+      "tags": [
+        "バックエンドエンジニア",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "JavaScript"
+        },
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        }
+      ],
+      "company": "株式会社xyz00008",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "JavaScript, Scrum, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "70〜90万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00008.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9809",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "80〜115万",
+      "tags": [
+        "PL",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Mac"
+        },
+        {
+          "category": "その他",
+          "skill": "Agile"
+        },
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        }
+      ],
+      "company": "株式会社xyz00009",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Mac, Agile, AWS, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "80〜115万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00009.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9810",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "45〜110万",
+      "tags": [
+        "PM",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        }
+      ],
+      "company": "株式会社xyz00010",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, AWS, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "45〜110万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00010.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9811",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜100万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "CI/CD"
+        },
+        {
+          "category": "言語",
+          "skill": "JavaScript"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Flask"
+        }
+      ],
+      "company": "株式会社xyz00011",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "CI/CD, JavaScript, Flask, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜100万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00011.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9812",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜100万",
+      "tags": [
+        "フロントエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "TypeScript"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Heroku"
+        },
+        {
+          "category": "OS",
+          "skill": "Mac"
+        }
+      ],
+      "company": "株式会社xyz00012",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "TypeScript, Heroku, Mac, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜100万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00012.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9813",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "85〜100万",
+      "tags": [
+        "フルスタックエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        },
+        {
+          "category": "言語",
+          "skill": "C"
+        },
+        {
+          "category": "その他",
+          "skill": "CI/CD"
+        }
+      ],
+      "company": "株式会社xyz00013",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Azure, C, CI/CD, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "85〜100万円",
+      "location": "東京都港区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00013.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9814",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜115万",
+      "tags": [
+        "フルスタックエンジニア",
+        "常駐",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Vue.js"
+        },
+        {
+          "category": "言語",
+          "skill": "TypeScript"
+        },
+        {
+          "category": "その他",
+          "skill": "Git"
+        }
+      ],
+      "company": "株式会社xyz00014",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Vue.js, TypeScript, Git, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜115万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00014.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9815",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜100万",
+      "tags": [
+        "バックエンドエンジニア",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Next.js"
+        },
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        }
+      ],
+      "company": "株式会社xyz00015",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Next.js, Scrum, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜100万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00015.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9816",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "60〜120万",
+      "tags": [
+        "PM",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Agile"
+        },
+        {
+          "category": "OS",
+          "skill": "Windows"
+        }
+      ],
+      "company": "株式会社xyz00016",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Agile, Windows, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "60〜120万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00016.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9817",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "45〜120万",
+      "tags": [
+        "PM",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Mac"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Vue.js"
+        },
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        }
+      ],
+      "company": "株式会社xyz00017",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Mac, Vue.js, AWS, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "45〜120万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00017.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9818",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "70〜105万",
+      "tags": [
+        "バックエンドエンジニア",
+        "フルリモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "CI/CD"
+        },
+        {
+          "category": "言語",
+          "skill": "Go"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Vue.js"
+        }
+      ],
+      "company": "株式会社xyz00018",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "CI/CD, Go, Vue.js, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "70〜105万円",
+      "location": "東京都新宿区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00018.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9819",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "65〜85万",
+      "tags": [
+        "バックエンドエンジニア",
+        "フルリモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Kubernetes"
+        },
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        }
+      ],
+      "company": "株式会社xyz00019",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Kubernetes, GCP, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "65〜85万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00019.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9820",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "55〜95万",
+      "tags": [
+        "フロントエンジニア",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Git"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Express"
+        }
+      ],
+      "company": "株式会社xyz00020",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Git, Express, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "55〜95万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00020.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9821",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜75万",
+      "tags": [
+        "フロントエンジニア",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        }
+      ],
+      "company": "株式会社xyz00021",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜75万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00021.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9822",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "75〜115万",
+      "tags": [
+        "フロントエンジニア",
+        "常駐",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Flask"
+        },
+        {
+          "category": "言語",
+          "skill": "Go"
+        }
+      ],
+      "company": "株式会社xyz00022",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Flask, Go, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "75〜115万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00022.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9823",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "50〜120万",
+      "tags": [
+        "フルスタックエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Ruby"
+        },
+        {
+          "category": "その他",
+          "skill": "CI/CD"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Flask"
+        }
+      ],
+      "company": "株式会社xyz00023",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Ruby, CI/CD, Flask, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "50〜120万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00023.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9824",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "70〜80万",
+      "tags": [
+        "PL",
+        "フルリモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "C#"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Heroku"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Vue.js"
+        }
+      ],
+      "company": "株式会社xyz00024",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "C#, Heroku, Vue.js, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "70〜80万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00024.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9825",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜95万",
+      "tags": [
+        "バックエンドエンジニア",
+        "一部リモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00025",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00025.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9826",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜60万",
+      "tags": [
+        "フルスタックエンジニア",
+        "一部リモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Firebase"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        }
+      ],
+      "company": "株式会社xyz00026",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Firebase, Linux, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜60万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00026.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9827",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜90万",
+      "tags": [
+        "フロントエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "CI/CD"
+        },
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        }
+      ],
+      "company": "株式会社xyz00027",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "CI/CD, GCP, Linux, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜90万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00027.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9828",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "55〜80万",
+      "tags": [
+        "PL",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Go"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Flask"
+        },
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        }
+      ],
+      "company": "株式会社xyz00028",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Go, Flask, GCP, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "55〜80万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00028.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9829",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜95万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        }
+      ],
+      "company": "株式会社xyz00029",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, GCP, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "東京都港区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00029.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9830",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜80万",
+      "tags": [
+        "PL",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        },
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Next.js"
+        }
+      ],
+      "company": "株式会社xyz00030",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "GCP, Windows, Next.js, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜80万円",
+      "location": "東京都港区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00030.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9831",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "90〜115万",
+      "tags": [
+        "PM",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Next.js"
+        }
+      ],
+      "company": "株式会社xyz00031",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Azure, Next.js, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "90〜115万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00031.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9832",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜115万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Laravel"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Firebase"
+        },
+        {
+          "category": "言語",
+          "skill": "JavaScript"
+        }
+      ],
+      "company": "株式会社xyz00032",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Laravel, Firebase, JavaScript, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜115万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00032.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9833",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜105万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Git"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Express"
+        }
+      ],
+      "company": "株式会社xyz00033",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Git, Linux, Express, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜105万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00033.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9834",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜95万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Vue.js"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00034",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, Vue.js, Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00034.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9835",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "65〜85万",
+      "tags": [
+        "フルスタックエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "SpringBoot"
+        },
+        {
+          "category": "言語",
+          "skill": "Java"
+        }
+      ],
+      "company": "株式会社xyz00035",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, SpringBoot, Java, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "65〜85万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00035.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9836",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜80万",
+      "tags": [
+        "PM",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "言語",
+          "skill": "Java"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "React"
+        }
+      ],
+      "company": "株式会社xyz00036",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, Java, React, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜80万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00036.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9837",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜85万",
+      "tags": [
+        "PM",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Git"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        }
+      ],
+      "company": "株式会社xyz00037",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Git, Linux, Azure, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜85万円",
+      "location": "東京都港区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00037.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9838",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "55〜95万",
+      "tags": [
+        "PM",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Go"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Spring"
+        }
+      ],
+      "company": "株式会社xyz00038",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Go, Azure, Spring, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "55〜95万円",
+      "location": "東京都港区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00038.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9839",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "95〜105万",
+      "tags": [
+        "PL",
+        "常駐",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "PHP"
+        },
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        }
+      ],
+      "company": "株式会社xyz00039",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "PHP, GCP, Linux, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "95〜105万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00039.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9840",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "75〜105万",
+      "tags": [
+        "バックエンドエンジニア",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00040",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "AWS, Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "75〜105万円",
+      "location": "東京都港区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00040.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9841",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "70〜85万",
+      "tags": [
+        "バックエンドエンジニア",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "言語",
+          "skill": "TypeScript"
+        }
+      ],
+      "company": "株式会社xyz00041",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, TypeScript, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "70〜85万円",
+      "location": "東京都港区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00041.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9842",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜110万",
+      "tags": [
+        "バックエンドエンジニア",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Django"
+        },
+        {
+          "category": "言語",
+          "skill": "JavaScript"
+        }
+      ],
+      "company": "株式会社xyz00042",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Django, JavaScript, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜110万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00042.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9843",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜55万",
+      "tags": [
+        "フロントエンジニア",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Mac"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Ruby on Rails"
+        }
+      ],
+      "company": "株式会社xyz00043",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Mac, Azure, Ruby on Rails, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜55万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00043.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9844",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "65〜110万",
+      "tags": [
+        "バックエンドエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Ruby on Rails"
+        },
+        {
+          "category": "言語",
+          "skill": "JavaScript"
+        }
+      ],
+      "company": "株式会社xyz00044",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Ruby on Rails, JavaScript, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "65〜110万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00044.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9845",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜95万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Ruby on Rails"
+        },
+        {
+          "category": "言語",
+          "skill": "C#"
+        }
+      ],
+      "company": "株式会社xyz00045",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, Ruby on Rails, C#, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00045.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9846",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜90万",
+      "tags": [
+        "フロントエンジニア",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Next.js"
+        }
+      ],
+      "company": "株式会社xyz00046",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Next.js, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜90万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00046.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9847",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜95万",
+      "tags": [
+        "PL",
+        "フルリモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "C#"
+        },
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "SpringBoot"
+        }
+      ],
+      "company": "株式会社xyz00047",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "C#, Scrum, SpringBoot, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "東京都港区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00047.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9848",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "65〜95万",
+      "tags": [
+        "PM",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "SpringBoot"
+        },
+        {
+          "category": "OS",
+          "skill": "Mac"
+        },
+        {
+          "category": "言語",
+          "skill": "Swift"
+        }
+      ],
+      "company": "株式会社xyz00048",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "SpringBoot, Mac, Swift, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "65〜95万円",
+      "location": "東京都港区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00048.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9849",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜100万",
+      "tags": [
+        "PL",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Go"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Flask"
+        }
+      ],
+      "company": "株式会社xyz00049",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Go, Flask, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜100万円",
+      "location": "東京都新宿区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00049.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9850",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "80〜90万",
+      "tags": [
+        "バックエンドエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "JavaScript"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Spring"
+        }
+      ],
+      "company": "株式会社xyz00050",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "JavaScript, Spring, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "80〜90万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00050.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9851",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜105万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Laravel"
+        }
+      ],
+      "company": "株式会社xyz00051",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Azure, Laravel, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜105万円",
+      "location": "東京都港区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00051.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9852",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜120万",
+      "tags": [
+        "フルスタックエンジニア",
+        "一部リモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "言語",
+          "skill": "C++"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Django"
+        }
+      ],
+      "company": "株式会社xyz00052",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, C++, Django, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜120万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00052.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9853",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜90万",
+      "tags": [
+        "PM",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Angular"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        }
+      ],
+      "company": "株式会社xyz00053",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Angular, Linux, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜90万円",
+      "location": "東京都新宿区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00053.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9854",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜110万",
+      "tags": [
+        "フルスタックエンジニア",
+        "フルリモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Kotlin"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Ruby on Rails"
+        }
+      ],
+      "company": "株式会社xyz00054",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Kotlin, Ruby on Rails, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜110万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00054.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9855",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜80万",
+      "tags": [
+        "PM",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        },
+        {
+          "category": "OS",
+          "skill": "Mac"
+        }
+      ],
+      "company": "株式会社xyz00055",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "GCP, Mac, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜80万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00055.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9856",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜105万",
+      "tags": [
+        "フルスタックエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Git"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Django"
+        }
+      ],
+      "company": "株式会社xyz00056",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Git, Django, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜105万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00056.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9857",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜105万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "JavaScript"
+        },
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Vue.js"
+        }
+      ],
+      "company": "株式会社xyz00057",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "JavaScript, AWS, Vue.js, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜105万円",
+      "location": "東京都港区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00057.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9858",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "50〜80万",
+      "tags": [
+        "PL",
+        "常駐",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "言語",
+          "skill": "Ruby"
+        }
+      ],
+      "company": "株式会社xyz00058",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, Ruby, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "50〜80万円",
+      "location": "東京都港区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00058.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9859",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜115万",
+      "tags": [
+        "PM",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        },
+        {
+          "category": "言語",
+          "skill": "TypeScript"
+        }
+      ],
+      "company": "株式会社xyz00059",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Scrum, TypeScript, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜115万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00059.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9860",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜115万",
+      "tags": [
+        "フロントエンジニア",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Mac"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00060",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Mac, Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜115万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00060.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9861",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "50〜90万",
+      "tags": [
+        "PL",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Firebase"
+        },
+        {
+          "category": "OS",
+          "skill": "Mac"
+        }
+      ],
+      "company": "株式会社xyz00061",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Firebase, Mac, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "50〜90万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00061.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9862",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜95万",
+      "tags": [
+        "フルスタックエンジニア",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "C#"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Laravel"
+        },
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        }
+      ],
+      "company": "株式会社xyz00062",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "C#, Laravel, AWS, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00062.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9863",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜105万",
+      "tags": [
+        "フルスタックエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "言語",
+          "skill": "PHP"
+        }
+      ],
+      "company": "株式会社xyz00063",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, PHP, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜105万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00063.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9864",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "45〜85万",
+      "tags": [
+        "バックエンドエンジニア",
+        "一部リモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        },
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        }
+      ],
+      "company": "株式会社xyz00064",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "GCP, Scrum, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "45〜85万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00064.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9865",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜50万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Docker"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Express"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        }
+      ],
+      "company": "株式会社xyz00065",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Docker, Express, Linux, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜50万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00065.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9866",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜110万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "CI/CD"
+        }
+      ],
+      "company": "株式会社xyz00066",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "CI/CD, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜110万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00066.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9867",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "50〜120万",
+      "tags": [
+        "PL",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "言語",
+          "skill": "C#"
+        }
+      ],
+      "company": "株式会社xyz00067",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, C#, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "50〜120万円",
+      "location": "東京都港区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00067.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9868",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜110万",
+      "tags": [
+        "バックエンドエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        }
+      ],
+      "company": "株式会社xyz00068",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "AWS, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜110万円",
+      "location": "東京都港区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00068.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9869",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜100万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Go"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Firebase"
+        }
+      ],
+      "company": "株式会社xyz00069",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Go, Firebase, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜100万円",
+      "location": "東京都港区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00069.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9870",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜70万",
+      "tags": [
+        "フルスタックエンジニア",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "CI/CD"
+        },
+        {
+          "category": "言語",
+          "skill": "Python"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        }
+      ],
+      "company": "株式会社xyz00070",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "CI/CD, Python, Azure, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜70万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00070.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9871",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "85〜115万",
+      "tags": [
+        "フロントエンジニア",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "C"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "React"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00071",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "C, React, Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "85〜115万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00071.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9872",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "85〜110万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Kubernetes"
+        },
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "SpringBoot"
+        }
+      ],
+      "company": "株式会社xyz00072",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Kubernetes, Windows, SpringBoot, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "85〜110万円",
+      "location": "東京都港区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00072.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9873",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜120万",
+      "tags": [
+        "フルスタックエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Django"
+        }
+      ],
+      "company": "株式会社xyz00073",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, Django, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜120万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00073.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9874",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜120万",
+      "tags": [
+        "フルスタックエンジニア",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Swift"
+        },
+        {
+          "category": "その他",
+          "skill": "Agile"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "SpringBoot"
+        }
+      ],
+      "company": "株式会社xyz00074",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Swift, Agile, SpringBoot, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜120万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00074.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9875",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜65万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Next.js"
+        },
+        {
+          "category": "言語",
+          "skill": "C"
+        }
+      ],
+      "company": "株式会社xyz00075",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Next.js, C, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜65万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00075.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9876",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "100〜105万",
+      "tags": [
+        "PM",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Flask"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00076",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Flask, Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "100〜105万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00076.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9877",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜95万",
+      "tags": [
+        "PL",
+        "一部リモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Vue.js"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        },
+        {
+          "category": "その他",
+          "skill": "Agile"
+        }
+      ],
+      "company": "株式会社xyz00077",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Vue.js, Azure, Agile, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00077.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9878",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "95〜100万",
+      "tags": [
+        "フルスタックエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Heroku"
+        },
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Angular"
+        }
+      ],
+      "company": "株式会社xyz00078",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Heroku, Scrum, Angular, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "95〜100万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00078.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9879",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "65〜80万",
+      "tags": [
+        "フルスタックエンジニア",
+        "一部リモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "PHP"
+        },
+        {
+          "category": "その他",
+          "skill": "Agile"
+        },
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        }
+      ],
+      "company": "株式会社xyz00079",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "PHP, Agile, GCP, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "65〜80万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00079.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9880",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "85〜120万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Go"
+        },
+        {
+          "category": "OS",
+          "skill": "Mac"
+        }
+      ],
+      "company": "株式会社xyz00080",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Go, Mac, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "85〜120万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00080.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9881",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "85〜110万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "Agile"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        }
+      ],
+      "company": "株式会社xyz00081",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Agile, Linux, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "85〜110万円",
+      "location": "東京都新宿区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00081.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9882",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜110万",
+      "tags": [
+        "フロントエンジニア",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        }
+      ],
+      "company": "株式会社xyz00082",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, GCP, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜110万円",
+      "location": "東京都港区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00082.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9883",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "100〜120万",
+      "tags": [
+        "バックエンドエンジニア",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "React"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Firebase"
+        }
+      ],
+      "company": "株式会社xyz00083",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, React, Firebase, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "100〜120万円",
+      "location": "東京都新宿区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00083.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9884",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "75〜100万",
+      "tags": [
+        "PM",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "言語",
+          "skill": "C"
+        }
+      ],
+      "company": "株式会社xyz00084",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, C, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "75〜100万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00084.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9885",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜95万",
+      "tags": [
+        "PL",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "PHP"
+        },
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "クラウド",
+          "skill": "GCP"
+        }
+      ],
+      "company": "株式会社xyz00085",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "PHP, Linux, GCP, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00085.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9886",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "70〜95万",
+      "tags": [
+        "バックエンドエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Vue.js"
+        },
+        {
+          "category": "言語",
+          "skill": "C#"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00086",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Vue.js, C#, Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "70〜95万円",
+      "location": "東京都新宿区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00086.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9887",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "55〜110万",
+      "tags": [
+        "PL",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "Heroku"
+        },
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Express"
+        }
+      ],
+      "company": "株式会社xyz00087",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Heroku, Windows, Express, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "55〜110万円",
+      "location": "東京都港区",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00087.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9888",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "45〜100万",
+      "tags": [
+        "フルスタックエンジニア",
+        "一部リモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Express"
+        }
+      ],
+      "company": "株式会社xyz00088",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Windows, Docker, Express, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "45〜100万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00088.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9889",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜60万",
+      "tags": [
+        "バックエンドエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Angular"
+        },
+        {
+          "category": "OS",
+          "skill": "Windows"
+        },
+        {
+          "category": "言語",
+          "skill": "Swift"
+        }
+      ],
+      "company": "株式会社xyz00089",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Angular, Windows, Swift, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜60万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00089.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9890",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜100万",
+      "tags": [
+        "フルスタックエンジニア",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Kotlin"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Heroku"
+        }
+      ],
+      "company": "株式会社xyz00090",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Kotlin, Heroku, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜100万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00090.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9891",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "45〜75万",
+      "tags": [
+        "フロントエンジニア",
+        "常駐",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Flask"
+        },
+        {
+          "category": "クラウド",
+          "skill": "Azure"
+        }
+      ],
+      "company": "株式会社xyz00091",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Flask, Azure, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "45〜75万円",
+      "location": "東京都港区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00091.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9892",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜115万",
+      "tags": [
+        "フロントエンジニア",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        },
+        {
+          "category": "OS",
+          "skill": "Mac"
+        },
+        {
+          "category": "言語",
+          "skill": "C++"
+        }
+      ],
+      "company": "株式会社xyz00092",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "AWS, Mac, C++, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜115万円",
+      "location": "神奈川県横浜市",
+      "remotework_text": "週3日まで可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00092.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9893",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜120万",
+      "tags": [
+        "PM",
+        "常駐",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "C++"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00093",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "C++, Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜120万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "1次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00093.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9894",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "100〜105万",
+      "tags": [
+        "フルスタックエンジニア",
+        "フルリモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "React"
+        },
+        {
+          "category": "OS",
+          "skill": "Mac"
+        },
+        {
+          "category": "その他",
+          "skill": "Kubernetes"
+        }
+      ],
+      "company": "株式会社xyz00094",
+      "start_date": "24.10.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "React, Mac, Kubernetes, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "100〜105万円",
+      "location": "東京都港区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00094.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9895",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "〜75万",
+      "tags": [
+        "フロントエンジニア",
+        "常駐",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Linux"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "SpringBoot"
+        }
+      ],
+      "company": "株式会社xyz00095",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Linux, Docker, SpringBoot, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜75万円",
+      "location": "東京都新宿区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "条件付きで可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00095.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9896",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜100万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "2次請"
+      ],
+      "skills": [
+        {
+          "category": "その他",
+          "skill": "CI/CD"
+        },
+        {
+          "category": "OS",
+          "skill": "Windows"
+        }
+      ],
+      "company": "株式会社xyz00096",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "CI/CD, Windows, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜100万円",
+      "location": "東京都港区",
+      "remotework_text": "月数回のみ可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00096.co.jp",
+      "is_attachment": false
+    },
+    {
+      "id": "#CM9897",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜95万",
+      "tags": [
+        "PL",
+        "フルリモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "OS",
+          "skill": "Mac"
+        },
+        {
+          "category": "フレームワーク",
+          "skill": "Django"
+        },
+        {
+          "category": "クラウド",
+          "skill": "AWS"
+        }
+      ],
+      "company": "株式会社xyz00097",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Mac, Django, AWS, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜95万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 1,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00097.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9898",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】のための高度なアルゴリズム開発と機械学習モデルの統合、リアルタイムデータ処理基盤の構築",
+      "price": "〜110万",
+      "tags": [
+        "フロントエンジニア",
+        "一部リモート",
+        "1次請"
+      ],
+      "skills": [
+        {
+          "category": "フレームワーク",
+          "skill": "Laravel"
+        },
+        {
+          "category": "その他",
+          "skill": "Scrum"
+        }
+      ],
+      "company": "株式会社xyz00098",
+      "start_date": "即日",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Laravel, Scrum, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "〜110万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "要相談",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 2,
+      "business_flow": "エンド直",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00098.co.jp",
+      "is_attachment": true
+    },
+    {
+      "id": "#CM9899",
+      "date": "24.8.1",
+      "name": "【継続先社員×2 (営業代行) フロントエンドエンジニア、最強案件特集】",
+      "price": "60〜115万",
+      "tags": [
+        "フルスタックエンジニア",
+        "フルリモート",
+        "エンド直"
+      ],
+      "skills": [
+        {
+          "category": "言語",
+          "skill": "Kotlin"
+        },
+        {
+          "category": "その他",
+          "skill": "Docker"
+        }
+      ],
+      "company": "株式会社xyz00099",
+      "start_date": "24.9.1",
+      "description": "この案件は、最新のWeb技術を活用した大規模プロジェクトです。チームでの協力が重要で、高度な技術力が求められます。",
+      "require_skill": "Kotlin, Docker, Git, Docker",
+      "desirable_skill": "Next.js, GraphQL, Kubernetes",
+      "remuneration": "60〜115万円",
+      "location": "東京都渋谷区",
+      "remotework_text": "フルリモート可能",
+      "foreign_worker_text": "VISA取得支援あり",
+      "sole_proprietorship_text": "不可",
+      "usance": "月末締め翌月末払い",
+      "interview": "オンライン",
+      "interview_count": 3,
+      "business_flow": "2次請",
+      "received_date": "2024-08-01",
+      "from_address": "recruit@xyz00099.co.jp",
+      "is_attachment": false
+    }
+  ]
+}
