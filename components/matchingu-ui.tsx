@@ -26,6 +26,7 @@ import {
 import { Textarea } from "@/components/ui/textarea"
 import { Mail, MoreHorizontal, Eye, Star, ChevronDown, ChevronUp, Paperclip, Loader2 } from "lucide-react"
 import { useInView } from 'react-intersection-observer';
+import { SearchInterface } from "@/components/search-interface";
 
 interface Project {
   id: string;
@@ -76,7 +77,7 @@ export const MatchinguUi = forwardRef<HTMLDivElement, {}>((_props, ref) => {
     jobType: '',
     businessFlow: '',
     location: '',
-    nearestStation: '',
+    nearestStation: '', 
     distance: '',
     remote: '',
     foreignWorker: '',
@@ -157,11 +158,13 @@ export const MatchinguUi = forwardRef<HTMLDivElement, {}>((_props, ref) => {
     setExpandedRowId(prevId => prevId === id ? null : id)
   }
 
+
   return (
     <div ref={ref} className="min-h-screen bg-gray-100">
       <div className="sticky top-0 z-10 bg-gray-100 p-6 pb-0">
         <h1 className="text-2xl font-bold mb-4">案件検索</h1>
-        <Card className="mb-6">
+        <SearchInterface className="pb-4"/>
+        {/* <Card className="mb-6">
           <CardHeader className="flex flex-row items-center justify-between space-y-0 pb-2">
             <h2 className="text-lg font-semibold">案件検索フォーム</h2>
             <Button
@@ -281,10 +284,10 @@ export const MatchinguUi = forwardRef<HTMLDivElement, {}>((_props, ref) => {
             </div>
             <Button className="mt-4" onClick={handleSearch}>検索</Button>
           </CardContent>
-        </Card>
+        </Card> */}
       </div>
       <div className="p-6 pt-0">
-        <div className="bg-white overflow-x-auto shadow-sm sm:rounded-lg">
+        <div className="bg-white overflow-x-auto shadow-sm rounded-lg">
           <Table>
             <TableHeader className="bg-white">
               <TableRow>
